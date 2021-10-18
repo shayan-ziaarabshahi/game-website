@@ -1,30 +1,33 @@
 {
   "files": {
     "main.css": "/game-website/static/css/main.afd7172b.chunk.css",
-    "main.js": "/game-website/static/js/main.94eb46a5.chunk.js",
-    "main.js.map": "/game-website/static/js/main.94eb46a5.chunk.js.map",
-    "runtime-main.js": "/game-website/static/js/runtime-main.2201ce5d.js",
-    "runtime-main.js.map": "/game-website/static/js/runtime-main.2201ce5d.js.map",
-    "static/js/2.01ffed4e.chunk.js": "/game-website/static/js/2.01ffed4e.chunk.js",
-    "static/js/2.01ffed4e.chunk.js.map": "/game-website/static/js/2.01ffed4e.chunk.js.map",
-    "static/js/3.cdae9f3a.chunk.js": "/game-website/static/js/3.cdae9f3a.chunk.js",
-    "static/js/3.cdae9f3a.chunk.js.map": "/game-website/static/js/3.cdae9f3a.chunk.js.map",
+    "main.js": "/game-website/static/js/main.c4005e5b.chunk.js",
+    "main.js.map": "/game-website/static/js/main.c4005e5b.chunk.js.map",
+    "runtime-main.js": "/game-website/static/js/runtime-main.bb80a58e.js",
+    "runtime-main.js.map": "/game-website/static/js/runtime-main.bb80a58e.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/game-website/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.6adcc297.chunk.js": "/game-website/static/js/2.6adcc297.chunk.js",
+    "static/js/2.6adcc297.chunk.js.map": "/game-website/static/js/2.6adcc297.chunk.js.map",
+    "static/js/3.4ee2d8c7.chunk.js": "/game-website/static/js/3.4ee2d8c7.chunk.js",
+    "static/js/3.4ee2d8c7.chunk.js.map": "/game-website/static/js/3.4ee2d8c7.chunk.js.map",
     "index.html": "/game-website/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/game-website/static/css/2.f4c56af9.chunk.css.map",
     "static/css/main.afd7172b.chunk.css.map": "/game-website/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.01ffed4e.chunk.js.LICENSE.txt": "/game-website/static/js/2.01ffed4e.chunk.js.LICENSE.txt",
+    "static/js/2.6adcc297.chunk.js.LICENSE.txt": "/game-website/static/js/2.6adcc297.chunk.js.LICENSE.txt",
     "static/media/android.6c7161a2.svg": "/game-website/static/media/android.6c7161a2.svg",
     "static/media/default image.035cd9c0.jpg": "/game-website/static/media/default image.035cd9c0.jpg",
     "static/media/ios.5e285c18.svg": "/game-website/static/media/ios.5e285c18.svg",
     "static/media/linux.5888d746.svg": "/game-website/static/media/linux.5888d746.svg",
     "static/media/nintendo.c4bbc199.svg": "/game-website/static/media/nintendo.c4bbc199.svg",
-    "static/media/playstation.407e3edc.svg": "/game-website/static/media/playstation.407e3edc.svg",
+    "static/media/playstation.svg": "/game-website/static/media/playstation.407e3edc.svg",
     "static/media/windows.c1144210.svg": "/game-website/static/media/windows.c1144210.svg",
-    "static/media/xbox.6dddbfaa.svg": "/game-website/static/media/xbox.6dddbfaa.svg"
+    "static/media/xbox.svg": "/game-website/static/media/xbox.6dddbfaa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2201ce5d.js",
-    "static/js/2.01ffed4e.chunk.js",
+    "static/js/runtime-main.bb80a58e.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.6adcc297.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.94eb46a5.chunk.js"
+    "static/js/main.c4005e5b.chunk.js"
   ]
 }
